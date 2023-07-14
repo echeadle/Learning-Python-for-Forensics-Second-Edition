@@ -1,0 +1,13 @@
+
+    Identify
+    Plan
+    Program
+    Validate
+    Bugs
+
+Pseudocode:
+# open the database
+  # read from the database using the sqlite3 library
+  # store in variable called records
+  for record in records: 
+    # process database records here
